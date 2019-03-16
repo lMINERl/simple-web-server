@@ -1,0 +1,23 @@
+{
+  "name": "node-requests",
+  "version": "1.0.0",
+  "description": "handle the user requests using nodejs with express",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "request"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
